@@ -1,0 +1,79 @@
+[
+    {
+        "URL": "http://www.just-eat.co.uk/restaurants-blue-bay-ne24/menu",
+        "_id": { "$oid": "55f14313c7447c3da7052513" },
+        "address": "Rua todos os santos",
+        "address line 2": "Mauá",
+        "name": "Nova Pizzaria",
+        "outcode": "NE24",
+        "postcode": "09150233",
+        "rating": 4.5,
+        "type_of_food": "Pizza"
+    },
+    {
+        "URL": "http://www.just-eat.co.uk/restaurants-bluebell-ch41/menu",
+        "_id": { "$oid": "55f14313c7447c3da7052514" },
+        "address": "Rua do Morro",
+        "address line 2": "Rio de Janeiro",
+        "name": "Veggie",
+        "outcode": "CH41",
+        "postcode": "8BT",
+        "rating": 5,
+        "type_of_food": "Vegano"
+    },
+    {
+        "URL": "http://www.just-eat.co.uk/restaurants-bluebengal-br4/menu",
+        "_id": { "$oid": "55f14313c7447c3da7052515" },
+        "address": "Vila do Bairro",
+        "address line 2": "Santo André",
+        "name": "A & G Kitchen",
+        "outcode": "BR4",
+        "postcode": "0LT",
+        "rating": 4.5,
+        "Pratos": ["Pizza Margheritta", "Lasanha Vegana", "Risotto de Cogumelos"]
+    },
+    {
+        "URL": "http://www.just-eat.co.uk/restaurants-bluebreeze-le3/menu",
+        "_id": { "$oid": "55f14313c7447c3da7052519" },
+        "address": "56 Bonney Road",
+        "address line 2": "Leicester",
+        "name": "Blue Breeze Fish Bar",
+        "outcode": "LE3",
+        "postcode": "9NG",
+        "rating": 5.5,
+        "type_of_food": "Fish \u0026 Chips"
+    },
+    {
+        "nome": "Gourmet Delights",
+        "tipo_de_comida": "Internacional",
+        "enderecos": [
+            {
+                "cidade": "São Paulo",
+                "endereco": "Av. Paulista, 1000",
+                "cep": "01310-100",
+                "classificacao": 4.7
+            },
+            {
+                "cidade": "Rio de Janeiro",
+                "endereco": "Rua Visconde de Pirajá, 500",
+                "cep": "22410-003",
+                "classificacao": 4.8
+            },
+            {
+                "cidade": "Belo Horizonte",
+                "endereco": "Rua dos Timbiras, 300",
+                "cep": "30140-060",
+                "classificacao": 4.6
+            }
+        ]
+    },
+    {
+        "nome": "Sabor do Sul",
+        "tipo_de_comida": "Gaucha",
+        "avaliacao": null,
+        "horarios_funcionamento": {
+            "segunda_a_sexta": "9h às 22h",
+            "sabado_domingo": "11h às 23h"
+        }
+    }
+]
